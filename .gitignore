@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+node_modules/
+build/
+dist/
+.env
+.env.*
+!.env.example
+*.log
+results/
+submission*.csv
+*.pt
+*.h5
+*.keras
